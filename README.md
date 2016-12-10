@@ -10,8 +10,11 @@
 ##Azure API
 
 GET /api/devices/{userId}
+
 GET /api/{deviceId}
+
 GET /api/{deviceID}/{SensorName}
+
 POST Value /api/{deviceId}/{SensorName}
 
 #ESP
