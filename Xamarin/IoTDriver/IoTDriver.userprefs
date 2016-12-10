@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5EB8800A-1C98-4839-80C6-5D763D4D4A7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IoTDriver/IoTDriver/Models/Sensor.cs">
+    <Files>
+      <File FileName="IoTDriver/IoTDriver/Services/IAzureIoTService.cs" Line="2" Column="20" />
+      <File FileName="IoTDriver/IoTDriver/Models/ApplicationUser.cs" Line="7" Column="3" />
+      <File FileName="IoTDriver/IoTDriver/Models/Device.cs" Line="1" Column="1" />
+      <File FileName="IoTDriver/IoTDriver/Models/Sensor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
