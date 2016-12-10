@@ -23,8 +23,11 @@
 - Wysłać do ESP SensorName/Value
 
 #Xamarin
-- Podłączyć do Azure i otrzymać info o Device
-- Podłączyć się do device po DeviceID
+- Zrobić komunikację z Azure REST API
+..- Otrzymać liste Podłączonych Devices
+..- Otrzymać liste Sensors by IDDevice
+..- Otrzymywać value z IDdevice/SensorName
+..- Zapisać value z IDDevice/SensorName
 - Zrobić UI zgodnie z tym jakie Sensors ma podłączony Device
 
 | Operacja | ValueTypeName | Control |
