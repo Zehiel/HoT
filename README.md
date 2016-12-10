@@ -7,6 +7,13 @@
 - Wpisać Value do IDDevice/SensorName
 - Otrzymać Value z IDDevice/SensorName
 
+##Azure API
+
+GET /api/devices/{userId}
+GET /api/{deviceId}
+GET /api/{deviceID}/{SensorName}
+POST Value /api/{deviceId}/{SensorName}
+
 #ESP
 - Zczytać informacje o Device
 - Podlączyć się do sieci WI-Fi
